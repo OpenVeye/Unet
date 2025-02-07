@@ -25,6 +25,11 @@ unet/
 数据加载脚本包括红细胞和眼底视网膜血管数据预处理脚本，存放在Datasets中
 请将您的数据集放置data目录中，对齐数据集目录结构，并在 Datasets中对应数据加载脚本以适应您的数据格式
 
+DRIVE数据集下载网盘分享的文件：DRIVE.tar
+链接: https://pan.baidu.com/s/1E90vjqRItNTGjjPmXEQAsQ?pwd=ueye 提取码: ueye 
+BCCD Dataset with mask数据集下载网盘分享的文件：BCCD Dataset with mask.tar
+链接: https://pan.baidu.com/s/1tKrI1qs6TeKn3iV00oSu-w?pwd=ueye 提取码: ueye 
+
 训练模型
 --max_epoch：训练的轮数。
 --batch_size：每批处理的数据量。
@@ -36,6 +41,7 @@ unet/
 给定图像文件存放目录，可以逐个图像前景分割抠图；
 或对给定视频文件名，可以对视频进行图像前景抠图
 
+更多详见https://www.bilibili.com/video/BV1xP6LYoE6x/?vd_source=38cfb9337bd66ed55074fc447ec9837d
 希望这个 README 文件能帮助您快速上手和理解本仓库中的 UNet PyTorch 实现。祝您使用愉快！
 如果您有任何问题或建议，请通过 GitHub Issues 与我们联系
 
