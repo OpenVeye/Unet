@@ -50,7 +50,8 @@ pip install -r requirements.txt
 ### 给定图像文件存放目录，可以逐个图像前景分割抠图，下图是训练过程中相应验证集的评估结果
 
 ![image](https://github.com/user-attachments/assets/6b498a11-de93-4099-bbd3-8f238b390644)
-![image](https://github.com/user-attachments/assets/fff564d3-6d90-47e7-a69f-8bb96ac8dc50)
+![image](https://github.com/user-attachments/assets/9f420e80-7fb0-4e0a-af34-2fd17ce8d316)
+
 
 ### 或对给定视频文件名，可以对视频进行图像前景抠图
 
